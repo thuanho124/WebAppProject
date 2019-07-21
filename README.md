@@ -56,7 +56,6 @@ Librarian Book - DbSet<> Book
   * Almost completed the front-end
     * Please note: the search bar is displayed visually, but still not functional
   * Implemented CRUD methods for book database as librarian
-  * Have a list of rented books for librarians
   * Student now can check what they are renting
   * Created tables for database
   
